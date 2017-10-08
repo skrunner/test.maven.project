@@ -16,7 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
-public class googleData {
+public class googleData { 
 
 	WebDriver driver;
 	googleTest gt;
